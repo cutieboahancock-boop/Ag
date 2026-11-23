@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ClipForge</string>
+    <string name="nav_studio">Studio</string>
+    <string name="nav_my_clips">My Clips</string>
+    <string name="hero_title">Big Videos Into Crisp Shorts</string>
+    <string name="hero_subtitle">Trim highlights, reframe for 9:16 vertical shorts, or auto-split long footage into ready-to-share parts.</string>
+    <string name="action_pick_gallery">Pick from Gallery</string>
+    <string name="action_browse_files">Browse Video Files</string>
+    <string name="action_change_video">Change Video</string>
+    <string name="action_export_clip">Export Clip</string>
+    <string name="action_export_all">Export All (%1$d)</string>
+    <string name="action_add_to_queue">Add Clip</string>
+    <string name="action_auto_split">Auto-Split</string>
+    <string name="action_share">Share</string>
+    <string name="action_play">Play</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="empty_clips_title">No Exported Clips Yet</string>
+    <string name="empty_clips_subtitle">Load a video in Studio to trim highlights or auto-split into shareable shorts.</string>
+    <string name="empty_clips_cta">Open Studio</string>
+    <string name="cd_hero_illustration">ClipForge studio illustration showing vertical shorts emerging from a filmstrip</string>
+    <string name="cd_play_pause">Toggle playback</string>
+    <string name="cd_mute_toggle">Toggle audio mute</string>
+    <string name="cd_loop_toggle">Toggle clip segment loop</string>
+    <string name="cd_clip_thumbnail">Thumbnail for exported clip %1$s</string>
+</resources>

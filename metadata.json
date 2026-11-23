@@ -1,0 +1,6 @@
+{
+  "name": "ClipForge",
+  "description": "Turn long videos into crisp, shareable clips and vertical shorts with frame-accurate trimming, auto-split parts, and Media3 export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
